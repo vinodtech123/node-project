@@ -1,0 +1,12 @@
+About project info
+
+It's just simple farm base website where I showing listing of product & data which we are seeing
+it's come dynamically from data.json file(here data.json file behave like database) cause project
+is build using only node js (where i use some concept Es6,own modules,core modules,routing etc) 
+
+Steps to run the project
+
+1) First install node js and npm in your system
+2) open your terminal & hit command node project.js(hit enter button);
+
+

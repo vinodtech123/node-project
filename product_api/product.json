@@ -1,0 +1,17 @@
+[
+    {
+        "product": "samsung",
+		"color": "red",
+		"price": 15000
+	},
+    {
+        "product":"vivo",
+		"color": "blue",
+		"value": 10000
+	},
+    {
+        "product":"iphone",
+		"color": "green",
+		"value": 35000
+	}
+]

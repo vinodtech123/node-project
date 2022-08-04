@@ -1,0 +1,1 @@
+This is the read dot this file call from previous text file.
